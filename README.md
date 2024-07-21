@@ -5,4 +5,4 @@ This will count down the cool down and display when active. When cooldown ends, 
 
 This is quickly written and probably not the most efficient in terms of code, but it functions for my use and that is what matters. Modify it as needed for your own use.
 
-![setup](/ComputerCraft-Thermalily-CoolDownCheck/ComputerSteup.png)
+![setup](ComputerSteup.png)
