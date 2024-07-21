@@ -6,6 +6,6 @@ This will count down the cool down and display when active. When cooldown ends, 
 This is quickly written and probably not the most efficient in terms of code, but it functions for my use and that is what matters. Modify it as needed for your own use.
 
 
-Here is how I had mine set up and was working.
+Here is how I had mine set up and was working. After the computer and the comparator and such is all setup, youll will need to jumpstart the process by manually placing some lava to get the flower started, the run the program.
 
 ![setup](ComputerSteup.png)
