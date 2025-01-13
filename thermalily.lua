@@ -26,7 +26,7 @@ while true do
     print("Signaling Lava Dispense...")
     redstone.setOutput("right", true)
     sleep(1)
-    redstome.setOutput("right", false)
+    redstone.setOutput("right", false)
     sleep(6)
   end
 end
